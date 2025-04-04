@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Install AmiTools
+Comment=Installs PIP3 and AmiTools
+Exec=gnome-terminal -- sh -c 'cd "'"$(dirname %k)"'"; sudo bash ./installamitools.sh'
+Icon=org.gnome.DiskUtility
+Type=Application
